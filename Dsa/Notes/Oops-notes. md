@@ -1,0 +1,17 @@
+# Object-Oriented Programming (OOPs) - Notes
+
+**Concepts:**
+- Class & Object
+- Inheritance
+- Encapsulation
+- Polymorphism
+- Abstraction
+
+Example:
+```cpp
+class Animal {
+public:
+    void speak() {
+        cout << "Animal sound";
+    }
+};
