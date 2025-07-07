@@ -1,0 +1,8 @@
+// My first DSA code
+#include<iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello from DSA!" << endl;
+    return 0;
+}
