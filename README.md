@@ -30,5 +30,10 @@ This repository is the **foundation** of that dream — a place where I learn, p
 
 ---
 
-📅 Started on: **July 7, 2025**  
+📅 Started on: **July 7, 2025**   
 🛠 Updated regularly — follow along 
+- [`dsa/`](./dsa) – Practice of data structures and algorithms
+- [`python/`](./python) – Python basics and small scripts
+- [`web-dev/`](./web-dev) – HTML/CSS/JS projects
+- [`projects/`](./projects) – Mini-projects built while learning
+- [`notes/`](./notes) – Notes from college
