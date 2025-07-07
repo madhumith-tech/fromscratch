@@ -23,7 +23,7 @@ This repository is the **foundation** of that dream — a place where I learn, p
 
 ## 🎯 My Goals
 
-- Get an internship at a top tech company (Google, Amazon, Meta)
+- Get an internship at a top tech company (Google, Amazon, Meta,Microsoft,zoho)
 - Build strong coding & development skills
 - Create my own tech startup one day
 - Inspire others to build their dreams — from scratch
