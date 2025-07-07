@@ -5,7 +5,7 @@ This repository is my journey of learning, building, and growing as a future sof
 
 ## 📌 What you'll find here:
 - 🔧 Code practice (DSA, algorithms, problem-solving)
-- 🌐 Web development (HTML, CSS, JS, projects)
+- 🌐 Web development (HTML, CSS, JS,python projects)
 - 🎯 Projects that I build step-by-step
 
 ## 🛤️ My Goal:
